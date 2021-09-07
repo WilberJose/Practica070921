@@ -1,0 +1,5 @@
+C:\Users\wilbe\source\repos\practica0609\Practica07\obj\Debug\Practica07.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\practica0609\Practica07\obj\Debug\Practica07.Form1.resources
+C:\Users\wilbe\source\repos\practica0609\Practica07\obj\Debug\Practica07.Properties.Resources.resources
+C:\Users\wilbe\source\repos\practica0609\Practica07\obj\Debug\Practica07.csproj.GenerateResource.cache
+C:\Users\wilbe\source\repos\practica0609\Practica07\obj\Debug\Practica07.csproj.CoreCompileInputs.cache
